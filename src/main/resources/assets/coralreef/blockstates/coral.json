@@ -6,12 +6,12 @@
   },
   "variants": {
     "types": {
-      "0": { "textures": { "cross": "coralreef:blocks/coral1" } },
-      "1": { "textures": { "cross": "coralreef:blocks/coral2" } },
-      "2": { "textures": { "cross": "coralreef:blocks/coral3" } },
-      "3": { "textures": { "cross": "coralreef:blocks/coral4" } },
-      "4": { "textures": { "cross": "coralreef:blocks/coral5" } },
-      "5": { "textures": { "cross": "coralreef:blocks/coral6" } }
+      "0": {"textures": {"cross": "coralreef:blocks/coral1"}},
+      "1": {"textures": {"cross": "coralreef:blocks/coral2"}},
+      "2": {"textures": {"cross": "coralreef:blocks/coral3"}},
+      "3": {"textures": {"cross": "coralreef:blocks/coral4"}},
+      "4": {"textures": {"cross": "coralreef:blocks/coral5"}},
+      "5": {"textures": {"cross": "coralreef:blocks/coral6"}}
     }
   }
 }

@@ -2,12 +2,13 @@
   {
     "modid": "coralreef",
     "name": "Coralreef",
-    "description": "Coral Reefs",
+    "description": "Coral Reefs for TFC",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
     "authorList": [
+      "ACGaming",
       "primetoxinz"
     ],
     "logoFile": "",
